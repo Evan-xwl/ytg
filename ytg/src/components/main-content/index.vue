@@ -15,7 +15,7 @@
     width: 100%;
     height: 800px;
     margin-top: 70px;
-    background: #2b57c7;
+    //background: #d6dff3;
     display: flex;
     justify-content: center;
     .container {
